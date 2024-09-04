@@ -11,7 +11,7 @@ import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.fail;
 
 public class ExampleUnitTest {
-
+// added test case to check api end point is giving response 
     @Test
     public void addition_isCorrect() {
         assertEquals(4, 2 + 2);
