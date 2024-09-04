@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#E3B5E7</color> <!-- Soft lavender -->
+    <color name="purple_500">#9B59B6</color> <!-- Amethyst purple -->
+    <color name="purple_700">#6C3483</color> <!-- Deep grape purple -->
+    <color name="teal_200">#A4E2E0</color> <!-- Light aquamarine -->
+    <color name="teal_700">#008080</color> <!-- Classic teal -->
+    <color name="black">#2C2C2C</color> <!-- Charcoal black -->
+    <color name="white">#F5F5F5</color> <!-- Off-white (almost white) -->
+</resources>
